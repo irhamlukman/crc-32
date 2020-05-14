@@ -12,3 +12,7 @@ public class tugas {
       System.out.println( "The CRC-32 value is : " + Long.toHexString( myCRC.getValue() ) + " !" ) ;
    }
 }
+
+
+Nama : Muchammad ircham lukman diansyah
+NIM : 1814321001
